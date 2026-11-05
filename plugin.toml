@@ -1,0 +1,17 @@
+# OpenIDEA Theme Plugin: Night Owl
+id = "mrboombastic.night-owl"
+name = "Night Owl"
+version = "1.0.0"
+description = "A port of Sarah Drasner's acclaimed Night Owl theme, copied directly from IntelliJ IDEA (Material Theme UI)."
+authors = ["MrBoombastic", "Sarah Drasner", "Elior Boukhobza (Mallowigi)"]
+license = "MIT"
+change-notes = "1.0.0 — Initial release: Night Owl and Light Owl ported from IntelliJ IDEA."
+engines.openidea = "^1.0"
+
+[[contributes.themes]]
+path = "themes/night-owl.theme.json"
+editor-scheme = "themes/night-owl.scheme.json"
+
+[[contributes.themes]]
+path = "themes/light-owl.theme.json"
+editor-scheme = "themes/light-owl.scheme.json"
