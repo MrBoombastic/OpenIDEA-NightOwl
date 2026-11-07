@@ -34,8 +34,8 @@
     "--link-hover": "#7fdbca",
     "--chart-series": "#82aaff",
     "--danger": "#ef5350",
-    "--warning": "#ffcb8b",
-    "--success": "#addb67",
+    "--warning": "#c78c2c", // muted
+    "--success": "#689f38", // muted
     "--db-connected": "#22da6e",
     "--db-connected-ring": "#156d39",
     "--info": "#82aaff",

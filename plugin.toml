@@ -1,11 +1,11 @@
 # OpenIDEA Theme Plugin: Night Owl
 id = "mrboombastic.night-owl"
 name = "Night Owl"
-version = "1.0.0"
+version = "1.0.1"
 description = "A port of Sarah Drasner's acclaimed Night Owl theme, copied directly from IntelliJ IDEA (Material Theme UI)."
 authors = ["MrBoombastic", "Sarah Drasner", "Elior Boukhobza (Mallowigi)"]
 license = "MIT"
-change-notes = "1.0.0 — Initial release: Night Owl and Light Owl ported from IntelliJ IDEA."
+change-notes = "1.0.1 — Night Owl: muted success/warning colours so badges (Signed by, permission risk) are no longer glaring and white text on them is readable. 1.0.0 — Initial release: Night Owl and Light Owl ported from IntelliJ IDEA."
 engines.openidea = "^1.0"
 categories = ["themes"]
 
